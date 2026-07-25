@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <!-- background -->
+  <rect width="300" height="300" fill="#f1f8e9" rx="16"/>
+  <!-- body / torso -->
+  <ellipse cx="150" cy="260" rx="90" ry="60" fill="#388e3c"/>
+  <!-- neck -->
+  <rect x="135" y="158" width="30" height="28" fill="#d4a96a" rx="4"/>
+  <!-- head -->
+  <circle cx="150" cy="138" r="52" fill="#d4a96a"/>
+  <!-- hijab outer -->
+  <ellipse cx="150" cy="122" rx="60" ry="66" fill="#2e7d32"/>
+  <!-- hijab face opening -->
+  <ellipse cx="150" cy="148" rx="36" ry="42" fill="#d4a96a"/>
+  <!-- hijab lower drape -->
+  <ellipse cx="150" cy="210" rx="80" ry="50" fill="#2e7d32"/>
+  <!-- eyes -->
+  <circle cx="136" cy="142" r="5" fill="#3e2723"/>
+  <circle cx="164" cy="142" r="5" fill="#3e2723"/>
+  <!-- smile -->
+  <path d="M138 162 Q150 172 162 162" stroke="#3e2723" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>
